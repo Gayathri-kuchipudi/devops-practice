@@ -1,0 +1,6 @@
+
+st github.com
+  HostName github.com
+    User git
+      IdentityFile ~/keygen
+
