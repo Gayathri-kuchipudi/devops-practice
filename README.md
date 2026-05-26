@@ -1,1 +1,2 @@
-# DevOps Practice Repo
+# DevOps Practice Repository
+# DevOps Practice Repository name
